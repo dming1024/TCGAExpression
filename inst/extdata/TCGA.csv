@@ -1,0 +1,33 @@
+Project,Full Name
+TCGA-UVM,Uveal Melanoma
+TCGA-UCS,Uterine Carcinosarcoma
+TCGA-UCEC,Uterine Corpus Endometrial Carcinoma
+TCGA-THYM,Thymoma
+TCGA-THCA,Thyroid carcinoma
+TCGA-TGCT,Testicular Germ Cell Tumors
+TCGA-STAD,Stomach adenocarcinoma
+TCGA-SKCM,Skin Cutaneous Melanoma
+TCGA-SARC,Sarcoma
+TCGA-READ,Rectum adenocarcinoma
+TCGA-PRAD,Prostate adenocarcinoma
+TCGA-PCPG,Pheochromocytoma and Paraganglioma
+TCGA-PAAD,Pancreatic adenocarcinoma
+TCGA-OV,Ovarian serous cystadenocarcinoma
+TCGA-MESO,Mesothelioma
+TCGA-LUSC,Lung squamous cell carcinoma
+TCGA-LUAD,Lung adenocarcinoma
+TCGA-LIHC,Liver hepatocellular carcinoma
+TCGA-LGG,Brain Lower Grade Glioma
+TCGA-LAML,Acute Myeloid Leukemia
+TCGA-KIRP,Kidney renal papillary cell carcinoma
+TCGA-KIRC,Kidney renal clear cell carcinoma
+TCGA-KICH,Kidney Chromophobe
+TCGA-HNSC,Head and Neck squamous cell carcinoma
+TCGA-GBM,Glioblastoma multiforme
+TCGA-ESCA,Esophageal carcinoma
+TCGA-DLBC,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma
+TCGA-COAD,Colon adenocarcinoma
+TCGA-CHOL,Cholangiocarcinoma
+TCGA-CESC,Cervical squamous cell carcinoma and endocervical adenocarcinoma
+TCGA-BLCA,Bladder Urothelial Carcinoma
+TCGA-ACC,Adrenocortical carcinoma

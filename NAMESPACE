@@ -2,4 +2,5 @@
 
 export(getBoxplot)
 export(getExpression)
+export(getProjects)
 export(inputToken)
