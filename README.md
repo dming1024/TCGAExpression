@@ -32,7 +32,7 @@ head(df)
 getBoxplot(df)
 ```
 
-<img src=".figures/1.png" />
+<img src="figures/1.png" />
 
 
 ### 获取TCGA项目
@@ -40,4 +40,4 @@ getBoxplot(df)
 ```R
 getProjects()
 ```
-<img src=".figures/1.png" />
+<img src="figures/1.png" />
