@@ -19,6 +19,6 @@ getExpression
 }
 \examples{
 library(TCGAExpression)#'
-inputToken("yJ0eXAiOiJKV1QiLCJhbGciOiJI...xNjUzODMyOTAyLjM4NTU3MzksImlzcyI6Inl4d")#update your token
 getExpression('TP53','TCGA-LUAD')
+
 }
