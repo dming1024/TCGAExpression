@@ -22,7 +22,7 @@ df=getExpression('TP53','TCGA-LUAD')
 
 head(df)
 ```
-
+<img src="figures/0.png" />
 
 ### 基因表达可视化
 
@@ -40,4 +40,6 @@ getBoxplot(df)
 ```R
 getProjects()
 ```
-<img src="figures/1.png" />
+<img src="figures/2.png" />
+
+【医学统计园】出品，可联系dongliulou@126.com 获取更多支持。
