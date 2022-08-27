@@ -14,7 +14,7 @@
 
 getExpression <- function(gene, Project) {
   url = sprintf(
-    "http://yixuetongji.top:8000/Gene/%s?Project=%s",
+    "http://www.yixuetongji.top:8000/Gene/%s?Project=%s",
     gene,
     Project
   )
